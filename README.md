@@ -51,18 +51,3 @@ Let's connect and make the web a safer and more exciting place together! Reach o
 Thank you for visiting my GitHub repository. I look forward to sharing knowledge and collaborating with you in the exciting worlds of web development and web pentesting!
 
 Happy coding and happy hacking!
-
-![Web Developer and Web Pentester]
-
-*Disclaimer: All pentesting activities mentioned here are conducted in accordance with ethical hacking principles and within the bounds of the law.*
-
-- 👋 Hi, I’m @vipinishere
-- 👀 I’m interested in Bug Bounty Hunting(website assestment).
-- 🌱 I’m currently learning JavaScript.
-- 💞️ I’m looking to collaborate on web development projects.
-- 📫 How to reach me through Email- vishwakarmavipin3434@gmail.com
-
-<!---
-vipinishere/vipinishere is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
