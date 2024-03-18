@@ -1,53 +1,76 @@
-# Web Developer and Web Pentester Portfolio
+<!--x axis divider-->
+<img src="/assets/images/horizontal-divider-gradient.gif">
 
-Welcome to my GitHub repository! This is where I showcase my work as a Web Developer and Web Pentester. Below, you'll find an overview of what you can expect to find here and how to navigate through the repository.
+<a href="https://komarev.com/ghpvc/?username=vipinishere">
+  <img align="right" src="https://komarev.com/ghpvc/?username=vipinishere&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+</a>
 
-## About Me
+[![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@018e5113-10e9-48d7-9090-228e8343f06e)
 
-I'm Vipin, a passionate Web Developer and Web Pentester with a deep love for both creating amazing web applications and ensuring their security. My journey in the world of web development and cybersecurity has led me to work on a variety of exciting projects.
+<p align="center">
+    <a href="https://github.com/DenverCoder1/readme-typing-svg">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=900&vCenter=true&multiline=true&random=false&width=340&height=200&lines=Hi..+I'm+Vipin+Vishwakarma.;Full-Stack+Web+Developer%2C;Web+Pantester%2C;BCA+Student%2C;Active+Learner%2FResearcher%2C;Love+to+learn+new+stuffs." alt="typing-img" />
+  </a>
+</p>
 
-## What's Inside
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
+ <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
+</div>
+<br>
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="50" height="50" />
+</div>
+<br>
 
-This repository contains a diverse range of projects and resources that highlight my skills and experience. Here's a brief rundown of what you can explore:
+<p align="center">
+ <a href="https://vipinishere.github.io/Personal-Website" target="blank">
+  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="vipin-web" />
+ </a>
+ <a href="https://linkedin.com/in/vipinishere" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="vipin-linkedin"/>
+ </a>
+ <a href="https://twitter.com/itsVipinkumar" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+ </a>
+ <a href="https://instagram.com/vipinvishwakarma27" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="vipin-insta" />
+ </a> 
+ <a href="https://facebook.com/vipinvishwakarma27" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="vipin-face"  />
+  </a> 
+</p>
 
-### 1. Web Development Projects
+<!--x axis divider-->
+<img src="/assets/images/horizontal-divider-gradient.gif">
 
-In the "Web Development" directory, you'll discover a variety of projects showcasing my web development skills. These projects include:
+## <picture><img src ="" width=50px></picture> **About me**
 
-- **Project 1**: A responsive e-commerce website with a sleek user interface.
-- **Project 2**: A personal blog highlighting my web development journey and expertise.
-- **Project 3**: A portfolio website showcasing my skills and past projects.
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<br><br>
 
-Feel free to explore these projects, check out their source code, and even try them out live!
 
-### 2. Web Pentesting Resources
 
-The "Web Pentesting" directory is a treasure trove of resources related to web penetration testing and cybersecurity. Here, I share:
 
-- **Vulnerability Reports**: Detailed reports on real-world vulnerabilities I've discovered and responsibly disclosed.
-- **Pentesting Tools**: A collection of scripts and tools I've developed to assist in web penetration testing.
-- **Tutorials**: Guides and tutorials on web application security, best practices, and mitigation techniques.
 
-Whether you're a fellow pentester seeking resources or a developer keen on securing your web applications, you'll find valuable insights here.
 
-## Getting Started
 
-1. **Explore the Projects**: Dive into the "Web Development" directory to view my web development projects. Each project folder contains a README with specific instructions on how to run or deploy the application.
 
-2. **Browse Web Pentesting Resources**: If web security interests you, head over to the "Web Pentesting" directory. There, you can access detailed vulnerability reports and practical resources to boost your cybersecurity knowledge.
 
-3. **Connect with Me**: If you have questions, suggestions, or want to collaborate, don't hesitate to reach out. You can contact me via [email](mailto:vishwakarmavipin3434@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/vipinishere/).
 
-## Collaboration and Contributions
 
-I'm always open to collaboration and welcome contributions from the community. Whether you want to report a security issue, suggest enhancements to my projects, or contribute to the development of pentesting tools, your input is highly appreciated.
 
-Please review the [Contributing Guidelines](CONTRIBUTING.md) to understand how you can get involved.
 
-## Contact Me
 
-Let's connect and make the web a safer and more exciting place together! Reach out to me anytime via [email](mailto:youremail@example.com) or connect on [LinkedIn](https://www.linkedin.com/in/vipinishere).
 
-Thank you for visiting my GitHub repository. I look forward to sharing knowledge and collaborating with you in the exciting worlds of web development and web pentesting!
 
-Happy coding and happy hacking!
+
