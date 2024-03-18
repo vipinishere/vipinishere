@@ -74,6 +74,7 @@
 <p align="center">
 
   - **Languages**:
+    
       ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
       ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
       ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
@@ -122,8 +123,45 @@
 <!--x axis divider-->
 <img src="/assets/images/horizontal-divider-gradient.gif">
 
-## <img src="https://lordicon.com/icons/wired/gradient/1331-repository.gif" width="35"><b> Favorite Repo </b>
+## <img src="/assets/images/repo-animated.gif" width="25"><b> Fav Repos </b>
 <br>
+
+[![Backend-Project](https://github-readme-stats.vercel.app/api/pin/?username=vipinishere&repo=backend-project&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/vipinishere/backend-projects)
+[![CSS-Projects](https://github-readme-stats.vercel.app/api/pin/?username=vipinishere&repo=css-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/vipinishere/css-projects)
+[![JobARouter](https://github-readme-stats.vercel.app/api/pin/?username=vipinishere&repo=jobarouter&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/vipinishere/jobarouter)
+[![Personal-Website](https://github-readme-stats.vercel.app/api/pin/?username=vipinishere&repo=Personal-Website&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/vipinishere/Personal-Website)
+
+<p align="left">
+  <a href="https://github.com/vipinishere?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+</p>
+<br/>
+
+<!--x axis divider-->
+<img src="/assets/images/horizontal-divider-gradient.gif">
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+<br>
+
+<p align="center">
+  <a href="https://github.com/vipinishere">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vipinishere&theme=merko&border=7F3FBF&background=0D1117" alt="Vipin's GitHub streak"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/vipinishere">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vipinishere&theme=radical" alt="Vipin's GitHub Contribution"/>
+  </a>
+</p>
+
+<a> 
+    <a href="https://github.com/vipinishere"><img alt="Vipin's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=vipinishere&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/alsiam"><img alt="Vipin's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=vipinishere&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <br/>
+</a>
+
+
+![Vipin's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vipinishere&custom_title=Vipin's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 
 
