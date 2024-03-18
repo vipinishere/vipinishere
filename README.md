@@ -163,5 +163,5 @@
 
 ![Vipin's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vipinishere&custom_title=Vipin's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
-
-
+<!--x axis divider-->
+<img src="/assets/images/horizontal-divider-gradient.gif">
